@@ -21,4 +21,4 @@ jobs:
         uses: docker/build-push-action@v4
         with:
           push: true
-          tags: xxnb22/my-first-devops-image:latest
+          tags: dresky2024/my-first-devops-image:latest
