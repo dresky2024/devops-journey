@@ -1,0 +1,1 @@
+Изучить Docker и Ansible
